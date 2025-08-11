@@ -183,3 +183,48 @@
 * Adopt DevOps practices for faster, reliable deployments.
 
 ---
+
+## *Public Cloud Platforms Overview*
+
+### **Public Cloud Platforms**
+
+* Public cloud platforms are computing environments owned and managed by third-party providers, delivering services over the internet to multiple customers.
+* The three major providers are **Amazon Web Services (AWS)**, **Google Cloud Platform (GCP)**, and **Microsoft Azure**.
+
+---
+
+### **Amazon Web Services (AWS)**
+
+* **Description** – Largest and most mature public cloud provider with a wide global presence and extensive service portfolio.
+* **Most Well-Known Offerings** – Amazon EC2 (compute), Amazon S3 (storage), AWS Lambda (serverless), Amazon RDS (relational databases).
+* **Popular Services**:
+
+  * **Cloud Options for SQL Databases** – Amazon RDS (supports MySQL, PostgreSQL, MariaDB, Oracle, SQL Server), Amazon Aurora.
+  * **Cloud Services for Storage** – Amazon S3 (object storage), Amazon EBS (block storage), Amazon Glacier (archival storage).
+  * **Cloud Migration Solutions** – AWS Migration Hub, AWS Database Migration Service (DMS), AWS Snowball (data transfer).
+
+---
+
+### **Google Cloud Platform (GCP)**
+
+* **Description** – Strong in data analytics, AI/ML, and Kubernetes (originated from Google).
+* **Most Well-Known Offerings** – Compute Engine (VMs), Cloud Storage, BigQuery (analytics), Cloud Functions (serverless).
+* **Popular Services**:
+
+  * **Cloud Options for SQL Databases** – Cloud SQL (MySQL, PostgreSQL, SQL Server), AlloyDB (PostgreSQL-compatible), Spanner (global distributed SQL).
+  * **Cloud Services for Storage** – Cloud Storage (object storage), Persistent Disk (block storage), Archive Storage.
+  * **Cloud Migration Solutions** – Migrate to Virtual Machines, Database Migration Service, Transfer Appliance.
+
+---
+
+### **Microsoft Azure**
+
+* **Description** – Strong enterprise integration with Microsoft products and robust hybrid cloud capabilities.
+* **Most Well-Known Offerings** – Azure Virtual Machines, Azure Blob Storage, Azure Functions (serverless), Azure SQL Database.
+* **Popular Services**:
+
+  * **Cloud Options for SQL Databases** – Azure SQL Database (PaaS), Azure Database for MySQL/PostgreSQL, SQL Managed Instance.
+  * **Cloud Services for Storage** – Azure Blob Storage (object storage), Azure Disk Storage (block), Azure Archive Storage.
+  * **Cloud Migration Solutions** – Azure Migrate, Database Migration Service, Azure Data Box.
+
+---
